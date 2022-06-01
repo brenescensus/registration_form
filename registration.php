@@ -34,10 +34,10 @@
   <input type="date" class="form-control" id="exampleFormControlInput1" name="date">
   </div>
   <div class="form-check">
+  <label class="Female" for="flexRadioDefault2">Female</label>
   <input class="mb-3" type="radio" name="Gender" id="flexRadioDefault1">
   <label class="form-check-label" for="flexRadioDefault1"> Male</label>
   <input class="form-check-input" type="radio" name="Gender" id="flexRadioDefault2" checked>
-  <label class="Female" for="flexRadioDefault2">Female</label>
 </div>
   <div class="mb-3">
   <label for="exampleFormControlInput1" class="form-label">Country</label>
